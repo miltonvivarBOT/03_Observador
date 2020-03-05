@@ -1,0 +1,11 @@
+C:\Users\milton.vivar\Documents\BOT-MVIVAR_DELL\Documentos Generales\Cursos DEV\Practica\03_Observador\bin\Debug\netcoreapp3.1\PatronObservador.exe
+C:\Users\milton.vivar\Documents\BOT-MVIVAR_DELL\Documentos Generales\Cursos DEV\Practica\03_Observador\bin\Debug\netcoreapp3.1\PatronObservador.deps.json
+C:\Users\milton.vivar\Documents\BOT-MVIVAR_DELL\Documentos Generales\Cursos DEV\Practica\03_Observador\bin\Debug\netcoreapp3.1\PatronObservador.runtimeconfig.json
+C:\Users\milton.vivar\Documents\BOT-MVIVAR_DELL\Documentos Generales\Cursos DEV\Practica\03_Observador\bin\Debug\netcoreapp3.1\PatronObservador.runtimeconfig.dev.json
+C:\Users\milton.vivar\Documents\BOT-MVIVAR_DELL\Documentos Generales\Cursos DEV\Practica\03_Observador\bin\Debug\netcoreapp3.1\PatronObservador.dll
+C:\Users\milton.vivar\Documents\BOT-MVIVAR_DELL\Documentos Generales\Cursos DEV\Practica\03_Observador\bin\Debug\netcoreapp3.1\PatronObservador.pdb
+C:\Users\milton.vivar\Documents\BOT-MVIVAR_DELL\Documentos Generales\Cursos DEV\Practica\03_Observador\obj\Debug\netcoreapp3.1\PatronObservador.AssemblyInfoInputs.cache
+C:\Users\milton.vivar\Documents\BOT-MVIVAR_DELL\Documentos Generales\Cursos DEV\Practica\03_Observador\obj\Debug\netcoreapp3.1\PatronObservador.AssemblyInfo.cs
+C:\Users\milton.vivar\Documents\BOT-MVIVAR_DELL\Documentos Generales\Cursos DEV\Practica\03_Observador\obj\Debug\netcoreapp3.1\PatronObservador.dll
+C:\Users\milton.vivar\Documents\BOT-MVIVAR_DELL\Documentos Generales\Cursos DEV\Practica\03_Observador\obj\Debug\netcoreapp3.1\PatronObservador.pdb
+C:\Users\milton.vivar\Documents\BOT-MVIVAR_DELL\Documentos Generales\Cursos DEV\Practica\03_Observador\obj\Debug\netcoreapp3.1\PatronObservador.csprojAssemblyReference.cache
